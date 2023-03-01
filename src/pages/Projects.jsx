@@ -1,8 +1,4 @@
-import Navbar from "../components/Navbar";
-import Project from "../components/Project";
-import proj1 from "../assets/project1.png";
-import proj2 from "../assets/proj2.png";
-import proj3 from "../assets/dashboard.png";
+import Project from "../components/Project";;
 const Projects = () => {
   const projects = {
     project1: {
